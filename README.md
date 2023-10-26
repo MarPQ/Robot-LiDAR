@@ -1,4 +1,4 @@
-# Caterpillar-Robot(LiDAR)
+# Robot Oruga(LiDAR)
   External ROS packages needed (Melodic distro)
   - [Ydlidar package](https://github.com/YDLIDAR/ydlidar_ros)
   - [Navigation stack](http://wiki.ros.org/navigation)
